@@ -1,0 +1,5 @@
+# Environment variables
+.env
+
+# MySQL data
+mysql_data/
